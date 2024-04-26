@@ -1,4 +1,4 @@
-<h1>Hi, I'm Liping! <br/> <a href=>Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Liping! <br/> <a href=>Language educator and researcher turned cyber geek</a> </h1>
 <h2>👨‍💻 Certifications</h2>
 
 - <b>CompTIA Security+</b> <b>;</b> <b>DFE</b> <b>(Digital Forensic Examiner)</b>

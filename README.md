@@ -3,7 +3,7 @@
 
 - <b>CompTIA Security+</b> <b>;</b> <b>DFE</b> <b>(Digital Forensic Examiner)</b>
  
-
+<!--
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build a Small Business Network</b>
@@ -45,7 +45,7 @@
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-
+-->
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

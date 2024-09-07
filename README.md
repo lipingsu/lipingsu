@@ -9,9 +9,12 @@
 
 - <b>Vulnerability Analysis and Mananagement</b>
   - [Analyzing and Responding to the DROWN Attack in a K-12 School Environment](https://1drv.ms/b/c/3d966e12aeeec779/EcvbvBzH2oRMj6HZlWYs9BoB-HNYB0rQza0X3Jq7ae1UOg?e=m8txCU)
+  - 
+- <b>Identity and Access Management</b>
+  - [Evaluating Access Controls in a Windows 10 VM](https://1drv.ms/b/c/3d966e12aeeec779/ERPu8Qk1WyhDjafwqr1UFnIBzwiOTJb6Rwk76AjvhB5-eg?e=0Is5rw)
 <!--
-- <b>Network Security</b>
-  - [Packet Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Identity and Access Management</b>
+  - [Evaluating Access Controls in a Windows 10 VM](https://1drv.ms/b/c/3d966e12aeeec779/ERPu8Qk1WyhDjafwqr1UFnIBzwiOTJb6Rwk76AjvhB5-eg?e=0Is5rw)
   - [Firewall and VPN](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Digital Forensics</b>
   - [Acceptable Use Policy Case](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>

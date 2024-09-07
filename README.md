@@ -1,13 +1,15 @@
 <h1>Hi, I'm Liping! <br/> <a href=>Security Analyst and Incident Handler</a> </h1>
+
 <h2>👨‍💻 Certifications</h2>
 
 - <b>CompTIA Security+</b> <b>;</b> <b>DFE</b> <b>(Digital Forensic Examiner)</b>
  
-<!--
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Build a Small Business Network</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Vulnerability Analysis and Mananagement</b>
+  - [Analyzing and Responding to the DROWN Attack in a K-12 School Environment](https://1drv.ms/b/c/3d966e12aeeec779/EcvbvBzH2oRMj6HZlWYs9BoB-HNYB0rQza0X3Jq7ae1UOg?e=m8txCU)
+<!--
 - <b>Network Security</b>
   - [Packet Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Firewall and VPN](https://github.com/joshmadakor1/Algorithms-Practice)

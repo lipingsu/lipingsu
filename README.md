@@ -7,9 +7,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Incident Response</b>
+- <b>Incident Response and SIEM Platforms</b>
   - [iPremier Incident Response Case Study Part 1](https://1drv.ms/b/c/3d966e12aeeec779/EQX0bZtDJ81KvlNI_OFXAgYBDNBH9WSbymkuv60j-Xj5Rw?e=hg8HVt)
   - [iPremier Incident Response Case Study Part 2](https://1drv.ms/b/c/3d966e12aeeec779/ES2SYvyZtkBPleedxcHphSYBGmmHFR7Z7u31XJ1q_zAoZQ?e=pe0MSK)
+  - [A Comparison of SIEM Platforms: Splunk vs. Wazuh](https://1drv.ms/b/c/3d966e12aeeec779/EYhvRTPT-NxCvtHgn_E6wDcBa-52bmqwo7Yu8xbQj99gRw?e=jbFGDF)
 
 - <b>Vulnerability Analysis and Management</b>
   - [Analyzing and Responding to the DROWN Attack in a K-12 School Environment](https://1drv.ms/b/c/3d966e12aeeec779/EcvbvBzH2oRMj6HZlWYs9BoB-HNYB0rQza0X3Jq7ae1UOg?e=m8txCU)
@@ -20,6 +21,9 @@
 
 - <b>Security Awareness Training</b>
   - [Awareness Training and Simulated Phishing Campaign](https://1drv.ms/b/c/3d966e12aeeec779/EdsQ3A_5slpNtWW7KvTGwJ8BqleeRbrHayvq94mSlD_Z8A?e=HumLJ0)
+
+- <b>Digital Forensics</b>
+  - [Digital Forensic Report](https://1drv.ms/b/c/3d966e12aeeec779/ESIX3ooB32pJiHZWZG_Qu6ABLMCfqYcQk2xOp2V1BSwodA?e=PLDeU9)
   
 <!--
 - <b>SIEM and SOAR PLATFORMS</b>

@@ -15,16 +15,15 @@
 - <b>Vulnerability Analysis and Management</b>
   - [Analyzing and Responding to the DROWN Attack in a K-12 School Environment](https://1drv.ms/b/c/3d966e12aeeec779/EcvbvBzH2oRMj6HZlWYs9BoB-HNYB0rQza0X3Jq7ae1UOg?e=m8txCU)
   - [Exchange Zero-Day Vulnerabilities Analysis](https://1drv.ms/b/c/3d966e12aeeec779/EfYDX15kMYlLhDZN2C38MgkBbfXJPovqbdaBqIbpNSUMNg?e=KumZZZ)
-   
-- <b>Identity and Access Management</b>
-  - [Evaluating Access Controls in a Windows 10 VM](https://1drv.ms/b/c/3d966e12aeeec779/ERPu8Qk1WyhDjafwqr1UFnIBzwiOTJb6Rwk76AjvhB5-eg?e=0Is5rw)
+
+- <b>Digital Forensics</b>
+  - [Digital Forensic Report](https://1drv.ms/b/c/3d966e12aeeec779/ESIX3ooB32pJiHZWZG_Qu6ABLMCfqYcQk2xOp2V1BSwodA?e=PLDeU9)
 
 - <b>Security Awareness Training</b>
   - [Awareness Training and Simulated Phishing Campaign](https://1drv.ms/b/c/3d966e12aeeec779/EdsQ3A_5slpNtWW7KvTGwJ8BqleeRbrHayvq94mSlD_Z8A?e=HumLJ0)
 
-- <b>Digital Forensics</b>
-  - [Digital Forensic Report](https://1drv.ms/b/c/3d966e12aeeec779/ESIX3ooB32pJiHZWZG_Qu6ABLMCfqYcQk2xOp2V1BSwodA?e=PLDeU9)
-  
+- <b>Identity and Access Management</b>
+  - [Evaluating Access Controls in a Windows 10 VM](https://1drv.ms/b/c/3d966e12aeeec779/ERPu8Qk1WyhDjafwqr1UFnIBzwiOTJb6Rwk76AjvhB5-eg?e=0Is5rw)
 <!--
 - <b>SIEM and SOAR PLATFORMS</b>
   - [Splunk vs Wazuh](https://github.com/joshmadakor1/Algorithms-Practice)
